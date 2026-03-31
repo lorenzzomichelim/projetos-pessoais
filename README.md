@@ -7,7 +7,7 @@ Repositório com projetos desenvolvidos para aprendizado e prática em programa�
 ## 📁 Projetos
 
 ### 🌐 Desenvolvimento Web
-- **[Quiz Programação](link)** - Apliquei meus conhecimentos em HTML, CSS e JavaScript para criar um quiz básico para programadores. · `HTML` `CSS` `JavaScript`
+- **[Quiz Programação](quiz-programadores.html)** - Apliquei meus conhecimentos em HTML, CSS e JavaScript para criar um quiz básico para programadores. · `HTML` `CSS` `JavaScript`
 
 
 ---
