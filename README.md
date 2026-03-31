@@ -6,8 +6,8 @@ Repositório com projetos desenvolvidos para aprendizado e prática em programa�
 
 ## 📁 Projetos
 
-### 🌐 Desenvolvimento Web
-- **[Quiz Programação](https://lorenzzomichelim.github.io/projetos-pessoais/)** - Apliquei meus conhecimentos em HTML, CSS e JavaScript para criar um quiz básico para programadores. · `HTML` `CSS` `JavaScript`
+### 🌐 Página Inicial
+- **[Página Inicial](https://lorenzzomichelim.github.io/projetos-pessoais/)** - Apliquei meus conhecimentos em HTML, CSS e JavaScript para criar uma página inicial onde você pode encontrar todos os meus projetos. · `HTML` `CSS` `JavaScript`
 
 
 ---
