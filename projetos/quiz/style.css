@@ -71,22 +71,25 @@ img {
 table {
     width: 100%;
     border-collapse: collapse;
+    border: 3.5px solid #798252;
 }
 
 th {
     background-color: #798252;
     color: #12171e;
     padding: 1rem;
+    border: 3.5px solid #798252;
 }
 
 td {
     color: #212a36;
     padding: 1rem;
     text-align: center;
+    border: 3.5px solid #798252;
 }
 
 tfoot td {
-    background-color: #2a2d1c;
+    background-color: #798252;
     color: #12171e;
 }
 
