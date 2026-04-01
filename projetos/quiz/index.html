@@ -4,6 +4,7 @@
     <head>    
         <title>Quiz Programadores</title>
         <meta name="description" content="Quiz interativo para testar seus conhecimentos" />
+        <link rel="stylesheet" href="style.css">
     </head>
     <body>  
         <header>
@@ -60,19 +61,24 @@
             </section>
             <!--Pergunta 5: Seleção Múltipla-->
             <section> 
-                <h2> Pergunta 5: Quais dessas tecnologias são consideradas linguagens de programação?</h2>
+                <h2>Pergunta 5: Quais dessas tecnologias são consideradas linguagens de programação?</h2>
                 <form>
-                    <input type="checkbox" id="p5a" name="pergunta5" value="javascript">
-                    <label for="p5a">JavaScript</label><br>
-
-                    <input type="checkbox" id="p5b" name="pergunta5" value="HTML">
-                    <label for="p5b">HTML</label><br>
-
-                    <input type="checkbox" id="p5c" name="pergunta5" value="Java">
-                    <label for="p5c">Java</label><br>
-
-                    <input type="checkbox" id="p5d" name="pergunta5" value="CSS">
-                    <label for="p5d">CSS</label><br>
+                    <div>
+                        <input type="checkbox" id="p5a" name="pergunta5" value="javascript">
+                        <label for="p5a">JavaScript</label>
+                    </div>
+                    <div>
+                        <input type="checkbox" id="p5b" name="pergunta5" value="HTML">
+                        <label for="p5b">HTML</label>
+                    </div>
+                    <div>
+                        <input type="checkbox" id="p5c" name="pergunta5" value="Java">
+                        <label for="p5c">Java</label>
+                    </div>
+                    <div>
+                        <input type="checkbox" id="p5d" name="pergunta5" value="CSS">
+                        <label for="p5d">CSS</label>
+                    </div>
                 </form>
             </section>
             <!--Pergunta 6: Upload de Arquivo-->
@@ -183,8 +189,8 @@
             </section>
         </main>
         <footer>
-            <p>&copy; 2026 Quiz de programadores. Todos os direitos reservados.</p>
-            <p>Para conhecer mais sobre mim <a href="sobremim.html" target="_blank">clique aqui</a></p>
+            <p class="paragrafo-footer">&copy; 2026 Quiz de programadores. Todos os direitos reservados.</p>
+            <p class="paragrafo-footer">Para conhecer mais sobre mim <a href="sobremim.html" target="_blank">clique aqui</a></p>
         </footer>
     </body>
 </html>
